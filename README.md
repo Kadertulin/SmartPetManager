@@ -126,10 +126,10 @@ lib/
 1. Uygulama açıldığında 7 örnek pet göreceksiniz
 2. Herhangi bir pet kartına tıklayarak detaylı bilgileri görüntüleyin
 3. Pet detay sayfasında:
-    - Pet'in yaşını, rengini, kilosunu görün
-    - Favori yemeğini öğrenin
-    - Veteriner randevu tarihini kontrol edin
-    - Karakteristik sesini görün
+   - Pet'in yaşını, rengini, kilosunu görün
+   - Favori yemeğini öğrenin
+   - Veteriner randevu tarihini kontrol edin
+   - Karakteristik sesini görün
 
 ## 🛠️ Teknolojiler
 
