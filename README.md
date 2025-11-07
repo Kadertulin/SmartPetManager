@@ -138,6 +138,6 @@ lib/
 - **Material Design** - Design System
 
 ## 👨‍💻 Geliştiriciler
-Kader Tülin Süre 10148830858
+Kader Tülin Süre 10148830858      
 Eylül Başak Çağlayan 28505181482
 
